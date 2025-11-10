@@ -1,2 +1,0 @@
-# aprillnorthcutt.github.io
-
