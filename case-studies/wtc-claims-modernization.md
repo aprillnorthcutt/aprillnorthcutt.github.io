@@ -1,4 +1,6 @@
-
+---
+title: "World Trade Center Claims Modernization"
+---
 
 **Role:** Engineering Manager (delivery ownership)  
 **Scope:** end-to-end workflow automation, data pipelines, reporting  
