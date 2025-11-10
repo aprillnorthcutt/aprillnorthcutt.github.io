@@ -24,3 +24,18 @@ A[Intake] --> B[Validation & Enrichment]
 B --> C[Automated Claims Engine]
 C --> D[Quality Gates & Exceptions]
 D --> E[Reporting & Audit Views]
+
+```
+---
+
+## Outcomes
+- Reduced end-to-end processing time from 2+ weeks → under 1 hour.
+- Cut a nightly 2-hour batch to a 2-minute monthly run (1,800× faster).
+- Increased accuracy and auditability; saved $250K annually in operating costs.
+
+## What I Led
+- Delivery ownership (roadmap, risk/dependency management, stakeholder alignment).
+- Data/workflow design decisions; hands-on SQL optimization when needed.
+- Execution discipline: ceremonies, release rhythm, and continuous improvement.
+
+  
