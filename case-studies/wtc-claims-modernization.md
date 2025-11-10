@@ -2,9 +2,9 @@
 title: "World Trade Center Claims Modernization"
 ---
 
-# World Trade Center Survivor & First Responder Claims Modernization
 
-**Role:** Engineering Manager (delivery ownership) • **Scope:** end-to-end workflow automation, data pipelines, reporting  
+**Role:** Engineering Manager (delivery ownership)  
+**Scope:** end-to-end workflow automation, data pipelines, reporting  
 **Goal:** Replace manual/intake workflows with an automated platform to improve speed, accuracy, and auditability for federally governed claims.
 
 ## Problem
