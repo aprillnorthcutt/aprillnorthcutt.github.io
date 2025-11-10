@@ -1,6 +1,3 @@
----
-title: "World Trade Center Claims Modernization"
----
 
 
 **Role:** Engineering Manager (delivery ownership)  
