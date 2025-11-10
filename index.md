@@ -1,8 +1,4 @@
----
-title: "April Northcutt — Engineering Manager"
----
 
-# April Northcutt — Engineering Manager
 
 Creating clarity from ambiguity. Delivering predictable outcomes.  
 **3 years** people leadership • **8 years** managing engineering delivery • **10+ years** IC execution
@@ -23,4 +19,4 @@ Creating clarity from ambiguity. Delivering predictable outcomes.
 ## Contact
 - LinkedIn: <https://www.linkedin.com/in/aprilnorthcutt>
 - Email: `april.l.northcutt@gmail.com`  <!-- replace if needed -->
-- Résumé (PDF): add `resume.pdf` to repo root and link like: [/resume.pdf](/resume.pdf)
+- Résumé (PDF): [/AprilNorthcutt.pdf](/AprilNorthcutt.pdf)
