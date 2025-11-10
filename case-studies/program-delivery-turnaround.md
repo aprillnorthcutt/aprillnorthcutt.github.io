@@ -42,7 +42,7 @@ PM-->>Exec: Progress, Decisions Needed
 - Cadence design (planning, demos, risk reviews, release readiness).
 - Hands-on unblock work when needed to protect delivery dates.
 
-  
----
+
+
 
 [← Back to Home](/)
