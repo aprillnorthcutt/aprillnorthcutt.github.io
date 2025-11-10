@@ -19,4 +19,4 @@ Creating clarity from ambiguity. Delivering predictable outcomes.
 ## Contact
 - LinkedIn: <https://www.linkedin.com/in/aprilnorthcutt>
 - Email: `april.l.northcutt@gmail.com`  <!-- replace if needed -->
-- Résumé (PDF): [/AprilNorthcutt.pdf](/AprilNorthcutt.pdf)
+- Résumé (PDF): [AprilNorthcutt.pdf](/AprilNorthcutt.pdf)
