@@ -1,9 +1,5 @@
 
 
----
-title: "Program Delivery Alignment & Turnaround"
----
-
 # Program Delivery Alignment & Turnaround
 
 **Role:** Engagement Owner / Delivery Leader  
