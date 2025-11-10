@@ -1,7 +1,5 @@
 
 
-# Program Delivery Alignment & Turnaround
-
 **Role:** Engagement Owner / Delivery Leader  
 **Goal:** Restore stakeholder confidence and return programs to predictable delivery.
 
