@@ -15,14 +15,14 @@
 - Established blameless postmortems and release cadences to stabilize delivery.
 
 ## Architecture (sanitized)
-```mermaid
+<div class="mermaid">
 flowchart LR
 A[Intake] --> B[Validation & Enrichment]
 B --> C[Automated Claims Engine]
 C --> D[Quality Gates & Exceptions]
 D --> E[Reporting & Audit Views]
+</div>
 
-```
 ---
 
 ## Outcomes
