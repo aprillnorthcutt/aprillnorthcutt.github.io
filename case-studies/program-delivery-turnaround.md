@@ -13,7 +13,7 @@
 - Introduced blameless postmortems and measurable improvement goals.
 
 ## Execution Rhythm (sample)
-```mermaid
+<div class="mermaid">
 sequenceDiagram
 participant Exec as Exec Sponsor
 participant PM as Delivery
@@ -22,7 +22,7 @@ Exec->>PM: Outcomes & Priorities
 PM->>Eng: Plan, Risks, Dependencies
 Eng-->>PM: Status, Blockers, Forecast
 PM-->>Exec: Progress, Decisions Needed
-```
+</div>
 
 ---
 
