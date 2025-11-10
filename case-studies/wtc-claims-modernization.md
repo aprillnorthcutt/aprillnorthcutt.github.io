@@ -38,4 +38,10 @@ D --> E[Reporting & Audit Views]
 - Data/workflow design decisions; hands-on SQL optimization when needed.
 - Execution discipline: ceremonies, release rhythm, and continuous improvement.
 
+
+
+
+[← Back to Home](/)
+
+
   
